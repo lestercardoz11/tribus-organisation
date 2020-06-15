@@ -1,0 +1,29 @@
+{
+  "name": "tribusorganisation",
+  "version": "1.0.0",
+  "description": "Website for Tribus Organisation",
+  "main": "server.js",
+  "dependencies": {
+    "app.json": "^1.3.0",
+    "express": "^4.17.1",
+    "package-lock.json": "^1.0.0",
+    "semver": "^6.3.0",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tribusorganisation"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "server"
+  ],
+  "author": "Lester",
+  "license": "ISC"
+}
